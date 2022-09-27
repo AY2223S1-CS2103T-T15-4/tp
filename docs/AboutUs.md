@@ -16,7 +16,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 <img src="images/donovanlee.png" width="200px">
 
 [[github](https://github.com/24Donovan24)]
-[[portfolio](team/donovan.md)]
+[[portfolio](team/24donovan24.md)]
 
 * Role: Project Advisor
 
