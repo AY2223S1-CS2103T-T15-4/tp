@@ -26,5 +26,4 @@ public class JsonSerializableAddressBookTest {
                 JsonSerializableAddressBook.class).get();
         assertThrows(IllegalValueException.class, dataFromFile::toModelType);
     }
-    
 }
